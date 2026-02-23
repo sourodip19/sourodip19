@@ -38,3 +38,37 @@ MongoDB | MySQL
 
 ### ☁️ DevOps
 Docker | CI/CD | GitHub Actions | Vercel | Render
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 Whisper – Real-Time Communication App
+
+• Video Calling  
+• Live Chat  
+• Cross-Platform  
+
+Tech: React Native, WebRTC, Node.js, MongoDB  
+
+🔗 https://github.com/sourodip19
+
+---
+
+### 💳 Banking Backend System
+
+• JWT Auth  
+• Ledger System  
+• Secure Transactions  
+
+Tech: Node.js, MongoDB  
+
+---
+
+### 🍕 Tomato – Food Ordering App
+
+• Payment Integration  
+• Admin Dashboard  
+• Cloudinary Image Upload  
+
+Tech: React, Node.js, MongoDB  
