@@ -19,3 +19,22 @@
 - 🌱 Learning **DevOps, Docker, CI/CD**
 - 👯 Looking for **Internships**
 - ⚡ Fun fact: I love building real-world scalable systems
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+C | C++ | JavaScript | TypeScript
+
+### 🎨 Frontend
+React.js | React Native | Tailwind | HTML | CSS
+
+### ⚙️ Backend
+Node.js | Express | REST API | Socket.io | WebRTC
+
+### 🗄️ Database
+MongoDB | MySQL
+
+### ☁️ DevOps
+Docker | CI/CD | GitHub Actions | Vercel | Render
