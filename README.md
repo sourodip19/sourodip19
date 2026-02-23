@@ -31,6 +31,7 @@ Full Stack Developer | DevOps Enthusiast | Real-Time Systems Builder
 ## 👨‍💻 About Me
 
 - 🔭 Building **Whisper – Real-Time Chat & Video App**
+- 🇯🇵 Currently learning **Japanese (日本語 / にほんご)** and preparing for **JLPT**
 - 🌱 Learning **DevOps, CI/CD, System Design**
 - 🎯 Goal: **Product-Based Company**
 - ⚡ Passionate about **Scalable Backend & Real-Time Systems**
@@ -233,8 +234,50 @@ React.js, Node.js, Express.js, MongoDB, Razorpay, Cloudinary
 ### 🔗 Links
 
 Live URL CustomerUI: https://resto-management-frontend.vercel.app/  
-Live URL AdminUI: https://resto-management-admin.vercel.app/
 GitHub: https://github.com/sourodip19
+
+---
+
+## 🌐 Peer Client & Independent Projects
+
+Actively exploring **AI-powered development tools** like Cursor, Bolt, Lovable, and Antigravity.
+
+🛠️ Using AI-assisted workflows along with my frontend expertise to design, customize, and deploy real-world websites based on client requirements.
+
+---
+
+### ☕ Coffee Shop Website (Frontend) (Client Project)
+
+🌍 Live: https://sip-spot-app.lovable.app/
+⚙️ Deployment: Lovable
+
+🧠 Highlights:
+
+• Fully responsive modern UI  
+• Interactive product/menu sections  
+• Optimized for performance and accessibility  
+• Designed and deployed for a real client use case
+
+🛠️ Tech Stack: React.js | Tailwind CSS | Vercel
+
+---
+
+### 👨‍💻 Personal Portfolio Website (Client Project)
+
+🌍 Live: https://friend-project-2-portfolio-cmr5dgr58.vercel.app  
+⚙️ Deployment: Vercel
+
+🧠 Highlights:
+
+• Professional portfolio layout  
+• Smooth animations and responsive design  
+• Project showcase and contact integration
+
+🛠️ Tech Stack: React.js | Tailwind CSS | Vercel
+
+---
+
+🔒 _Client identity anonymized for privacy_
 
 ---
 
