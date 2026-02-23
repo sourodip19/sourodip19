@@ -45,37 +45,196 @@ Full Stack Developer | DevOps Enthusiast | Real-Time Systems Builder
 
 </p>
 
+### 💻 Programming Languages
+
+C | C++ | JavaScript | TypeScript
+
 ---
+
+### 🎨 Frontend Development
+
+React.js | React Native | HTML | CSS | Tailwind CSS | Bootstrap
+
+---
+
+### ⚙️ Backend Development
+
+Node.js | Express.js | REST APIs | Socket.io | WebRTC | JWT Authentication
+
+---
+
+### 🗄️ Databases
+
+MongoDB | MySQL
+
+---
+
+### ⚡ DevOps & Automation
+
+Docker | CI/CD Pipelines | GitHub Actions | Git | GitHub
+
+---
+
+### ☁️ Cloud & Deployment
+
+Vercel | Render
+
+---
+
+### 🛠️ Tools & Platforms
+
+## Postman | Clerk Auth | Cloudinary | Razorpay | Expo
 
 ## 📌 Featured Projects
 
-### 🔥 Whisper – Real-Time Communication
+---
 
-- Video Calling
-- Live Chat
-- Cross-Platform
+# 🔥 Whisper — Real-Time Cross-Platform Communication System 🚧 (In Progress)
 
-Tech: React Native, WebRTC, Node.js, MongoDB
+### 📖 Purpose
+
+Building a scalable real-time communication platform enabling secure messaging and peer-to-peer video calling across Web and Mobile platforms.
 
 ---
 
-### 💳 Banking Backend System
+### ✅ Completed Features
 
-- JWT Authentication
-- Ledger System
-- Secure Transactions
-
-Tech: Node.js, MongoDB
+• Real-time one-to-one messaging using Socket.io  
+• Secure authentication and session management  
+• Backend REST API architecture  
+• Database schema design for chats and users
 
 ---
 
-### 🍕 Tomato – Food Ordering App
+### 🚧 Features Under Development
 
-- Payment Integration
-- Admin Dashboard
-- Cloudinary Upload
+• Peer-to-peer video calling using WebRTC  
+• Media stream handling  
+• Mobile app optimization
 
-Tech: React, Node.js, MongoDB
+---
+
+### 🎯 Planned Features
+
+• Group chat functionality  
+• File and image sharing  
+• Online/offline presence  
+• Deployment and scaling
+
+---
+
+### ⚔️ Challenges
+
+• Implementing WebRTC signaling correctly  
+• Managing real-time socket connections  
+• Handling reconnections and connection drops
+
+---
+
+### 🧠 Learnings
+
+• Real-time system architecture  
+• WebRTC internals and signaling  
+• Production-level backend design  
+• Cross-platform application structure
+
+---
+
+### 🛠️ Tech Stack
+
+Frontend: React.js, React Native, TypeScript
+
+Backend: Node.js, Express.js, Socket.io
+
+Database: MongoDB
+
+DevOps: Docker
+
+---
+
+### ☁️ Deployment Status
+
+Backend: In Progress  
+Frontend: In Progress
+
+---
+
+### 🔗 Links
+
+GitHub: https://github.com/sourodip19/Whisper
+
+Live URL: Coming Soon
+
+# 💳 Banking Backend System — Ledger-Based Transaction Engine
+
+### 📖 Purpose
+
+To simulate a production-grade banking backend handling secure financial transactions.
+
+### 🚀 Key Features
+
+• Secure user authentication with JWT  
+• Credit and debit transaction system  
+• Ledger-based balance tracking  
+• Email notifications
+
+### ⚔️ Challenges
+
+• Ensuring transaction consistency  
+• Preventing duplicate transactions  
+• Designing scalable data models
+
+### 🧠 Learnings
+
+• Backend architecture design  
+• Financial system fundamentals  
+• MongoDB aggregation pipelines
+
+### 🛠️ Tech Stack
+
+Node.js, Express.js, MongoDB, JWT, Nodemailer
+
+### 🔗 Links
+
+Live URL: N/A  
+GitHub: https://github.com/sourodip19
+
+---
+
+# 🍕 FoodHub — Full Stack Food Ordering Platform
+
+### 📖 Purpose
+
+To develop a complete food ordering and restaurant management system.
+
+### 🚀 Features
+
+• User authentication and authorization  
+• Online payment integration  
+• Admin dashboard  
+• Cloud image upload
+
+### ⚔️ Challenges
+
+• Payment gateway integration  
+• Managing large image uploads  
+• State management
+
+### 🧠 Learnings
+
+• Full-stack architecture  
+• Payment integration  
+• Cloud storage handling
+
+### 🛠️ Tech Stack
+
+React.js, Node.js, Express.js, MongoDB, Razorpay, Cloudinary
+
+### 🔗 Links
+
+Live URL CustomerUI: https://resto-management-frontend.vercel.app/  
+Live URL AdminUI: https://resto-management-admin.vercel.app/
+GitHub: https://github.com/sourodip19
 
 ---
 
