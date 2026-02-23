@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer | DevOps Enthusiast  
 🚀 Building scalable real-time applications  
-🎯 Target: Product-based companies  
+🎯 Target: Product-based companies
 
 ---
 
@@ -25,18 +25,23 @@
 ## 🚀 Tech Stack
 
 ### 💻 Languages
+
 C | C++ | JavaScript | TypeScript
 
 ### 🎨 Frontend
+
 React.js | React Native | Tailwind | HTML | CSS
 
 ### ⚙️ Backend
+
 Node.js | Express | REST API | Socket.io | WebRTC
 
 ### 🗄️ Database
+
 MongoDB | MySQL
 
 ### ☁️ DevOps
+
 Docker | CI/CD | GitHub Actions | Vercel | Render
 
 ---
@@ -47,9 +52,9 @@ Docker | CI/CD | GitHub Actions | Vercel | Render
 
 • Video Calling  
 • Live Chat  
-• Cross-Platform  
+• Cross-Platform
 
-Tech: React Native, WebRTC, Node.js, MongoDB  
+Tech: React Native, WebRTC, Node.js, MongoDB
 
 🔗 https://github.com/sourodip19
 
@@ -59,9 +64,9 @@ Tech: React Native, WebRTC, Node.js, MongoDB
 
 • JWT Auth  
 • Ledger System  
-• Secure Transactions  
+• Secure Transactions
 
-Tech: Node.js, MongoDB  
+Tech: Node.js, MongoDB
 
 ---
 
@@ -69,6 +74,14 @@ Tech: Node.js, MongoDB
 
 • Payment Integration  
 • Admin Dashboard  
-• Cloudinary Image Upload  
+• Cloudinary Image Upload
 
-Tech: React, Node.js, MongoDB  
+Tech: React, Node.js, MongoDB
+
+---
+
+## 📊 GitHub Stats
+
+![Sourodip's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourodip19&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourodip19&layout=compact)
