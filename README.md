@@ -1,7 +1,9 @@
 # Hi 👋, I'm Sourodip Dey
 
+Full-Stack MERN & React Native Developer focused on building scalable real-time applications.
+
 <h3 align="center">
-Full Stack Developer | DevOps Enthusiast | Real-Time Systems Builder
+Full Stack Developer | DevOps Enthusiast | Mobile App Developer
 </h3>
 
 <p align="center">
@@ -36,28 +38,26 @@ I also work with **modern DevOps practices** and use **AI tools and SaaS platfor
 
 Currently, I’m learning **Japanese** and preparing to build my career in **Japan’s tech industry**, and I’m deeply interested in contributing to its innovative engineering culture. I greatly admire the **Japanese approach to craftsmanship, discipline, and continuous improvement**, which strongly aligns with my own mindset as a developer.
 
+In addition to my core development work, I actively use modern AI-assisted development tools to enhance productivity and accelerate workflows. 
+
+I use AI as an engineering assistant to prototype faster, improve code quality, and streamline development, while maintaining full understanding and ownership of the architecture and implementation.
+
+🇯🇵 Actively preparing for software engineering opportunities in Japan, including language proficiency and industry-ready technical skills.
+
 ---
 
 ## 🚀 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nodejs,express,mongodb,mysql,docker,github,git,vercel,tailwind,postman,cloudinary" />
-
-</p>
-
-Below is a consolidated view of my technologies:
-
-| Category               | Technologies                                                                 |
-|------------------------|------------------------------------------------------------------------------|
-| **Programming Languages** | C, C++, JavaScript, TypeScript                                              |
-| **Frontend**           | React.js, React Native, HTML, CSS, Tailwind CSS, Bootstrap                   |
-| **Backend**            | Node.js, Express.js, REST APIs, Socket.io, WebRTC, JWT Authentication        |
-| **Databases**          | MongoDB, MySQL                                                               |
-| **DevOps & Automation**| Docker, CI/CD Pipelines, GitHub Actions, Git, GitHub                        |
-| **Cloud & Deployment** | Vercel, Render                                                               |
-| **Tools & Platforms**  | Postman, Clerk Auth, Cloudinary, Razorpay, Expo                              |
-
+| Category | Technologies |
+|---|---|
+| **Languages** | C, C++, JavaScript, TypeScript |
+| **Frontend** | React.js, React Native, HTML, CSS, Tailwind CSS |
+| **Backend** | Node.js, Express.js, REST APIs, Socket.io, WebRTC, JWT |
+| **Databases** | MongoDB, MySQL |
+| **DevOps** | Docker, CI/CD, GitHub Actions, Git |
+| **Cloud Deployment** | Vercel, Render |
+| **Tools & Platforms** | Postman, Clerk Auth, Cloudinary, Razorpay, Expo |
+| **AI Tools** | Cursor, Claude, v0, Lovable |
 
 ## 📌 Featured Projects
 
@@ -65,7 +65,7 @@ Below is a consolidated view of my technologies:
 
 # 🔥 Whisper — Real-Time Cross-Platform Communication System
 
-A scalable real-time chat and video calling platform with Socket.io messaging, WebRTC calling, and cross-platform support (Web & Mobile).
+Production-ready real-time chat and video calling platform supporting Web and Mobile with WebSocket messaging and secure authentication.
 
 **Tech**: React.js, React Native, Node.js, Express.js, Socket.io, WebRTC, MongoDB, Docker
 
@@ -83,7 +83,7 @@ Production-grade banking backend with JWT authentication, ledger-based transacti
 
 # 🍕 FoodHub
 
-Full-stack food ordering platform with Razorpay payments, Cloudinary image uploads, and admin dashboard.
+Full-stack food ordering and restaurant management system with Razorpay payments, Cloudinary image uploads, admin dashboard, and real-time order tracking.
 
 **Tech**: React.js, Node.js, Express.js, MongoDB, Razorpay, Cloudinary
 
@@ -91,58 +91,40 @@ Full-stack food ordering platform with Razorpay payments, Cloudinary image uploa
 
 ---
 
-## 🌐 Client & Independent Projects
+## 🌐 Other Projects
+
+## 🤖 Built with AI-Assisted Development
+
+This project was created using **Lovable AI** as part of my effort to stay current with modern AI-assisted software development workflows.
+
+As a developer, I actively explore tools like Lovable AI, Cursor, Bolt, and GitHub Copilot to improve productivity, accelerate prototyping, and enhance development efficiency.
+
+This project demonstrates my ability to:
+
+- Effectively use AI-assisted development tools in real-world scenarios
+- Understand, modify, and extend AI-generated code
+- Integrate modern frontend technologies like React and Tailwind CSS
+- Deploy and manage production-ready applications
+
+AI was used as a development assistant, while I was responsible for understanding the architecture, customizing features, making improvements, and deploying the final application.
+
+I believe AI-assisted development is becoming a core skill for modern engineers, and I actively incorporate these tools into my workflow to build applications faster and more efficiently.
 
 ### ☕ Coffee Shop Website
 
-Modern, fully responsive coffee shop website built with React & Tailwind CSS.
+Modern and lively coffee-shop ui. Easy to browse menu and order.
 
-🌍 **[Live Demo](https://sip-spot-app.lovable.app/)** | **Tech**: React.js, Tailwind CSS
+🔗 **[View Repository](https://github.com/sourodip19/Coffee-Shop)**
+🌍 **[Live Demo](https://sip-spot-app.lovable.app/)** | 
+**Tech**: React.js, Tailwind CSS
 
 ### 👨‍💻 Personal Portfolio Website
 
 Professional portfolio with smooth animations and project showcase.
 
-🌍 **[Live Demo](https://friend-project-2-portfolio-cmr5dgr58.vercel.app/)** | **Tech**: React.js, Tailwind CSS
+🔗 **[View Repository](https://github.com/sourodip19/Portfolio)**
+🌍 **[Live Demo](https://friend-project-2-portfolio-cmr5dgr58.vercel.app/)** | 
+**Tech**: React.js, Tailwind CSS
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sourodip19&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourodip19&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=sourodip19&theme=tokyonight"/>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=sourodip19&label=Profile%20views&color=0e75b6&style=flat" />
-
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<img src="https://raw.githubusercontent.com/sourodip19/sourodip19/output/github-contribution-grid-snake.svg" />
-
----
-
-## ⚡ Fun Fact
-
-I love building **real-world production-level applications**
-
----
