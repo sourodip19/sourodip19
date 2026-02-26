@@ -87,7 +87,7 @@ Full-stack food ordering and restaurant management system with Razorpay payments
 
 **Tech**: React.js, Node.js, Express.js, MongoDB, Razorpay, Cloudinary
 
-🔗 **[View Repository](https://github.com/sourodip19/FoodHub)** | 🌍 **[Live Demo](https://resto-management-frontend.vercel.app/)**
+🔗 **[View Repository](https://github.com/sourodip19/Resto-Management)** | 🌍 **[Live Demo](https://resto-management-frontend.vercel.app/)**
 
 ---
 
