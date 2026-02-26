@@ -14,14 +14,14 @@ Full Stack Developer | DevOps Enthusiast | Real-Time Systems Builder
 
 ## 🌐 Connect with me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/sourodip-dey">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<p align="center">
 
 <a href="mailto:sourodipdey19@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-sourodipdey19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sourodip-dey/">
+<img src="https://img.shields.io/badge/LinkedIn-Sourodip%20Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -30,11 +30,11 @@ Full Stack Developer | DevOps Enthusiast | Real-Time Systems Builder
 
 ## 👨‍💻 About Me
 
-- 🔭 Building **Whisper – Real-Time Chat & Video App**
-- 🇯🇵 Currently learning **Japanese (日本語 / にほんご)** and preparing for **JLPT**
-- 🌱 Learning **DevOps, CI/CD, System Design**
-- 🎯 Goal: **Product-Based Company**
-- ⚡ Passionate about **Scalable Backend & Real-Time Systems**
+Hi, I’m **Sourodip Dey**, a **Full-Stack Developer** specializing in the **MERN stack** and **mobile application development with React Native**.
+
+I also work with **modern DevOps practices** and use **AI tools and SaaS platforms** to build and ship applications efficiently.
+
+Currently, I’m learning **Japanese** and preparing to build my career in **Japan’s tech industry**, and I’m deeply interested in contributing to its innovative engineering culture. I greatly admire the **Japanese approach to craftsmanship, discipline, and continuous improvement**, which strongly aligns with my own mindset as a developer.
 
 ---
 
@@ -42,242 +42,68 @@ Full Stack Developer | DevOps Enthusiast | Real-Time Systems Builder
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nodejs,express,mongodb,mysql,docker,github,git,vercel,tailwind" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nodejs,express,mongodb,mysql,docker,github,git,vercel,tailwind,postman,cloudinary" />
 
 </p>
 
-### 💻 Programming Languages
+Below is a consolidated view of my technologies:
 
-C | C++ | JavaScript | TypeScript
+| Category               | Technologies                                                                 |
+|------------------------|------------------------------------------------------------------------------|
+| **Programming Languages** | C, C++, JavaScript, TypeScript                                              |
+| **Frontend**           | React.js, React Native, HTML, CSS, Tailwind CSS, Bootstrap                   |
+| **Backend**            | Node.js, Express.js, REST APIs, Socket.io, WebRTC, JWT Authentication        |
+| **Databases**          | MongoDB, MySQL                                                               |
+| **DevOps & Automation**| Docker, CI/CD Pipelines, GitHub Actions, Git, GitHub                        |
+| **Cloud & Deployment** | Vercel, Render                                                               |
+| **Tools & Platforms**  | Postman, Clerk Auth, Cloudinary, Razorpay, Expo                              |
 
----
-
-### 🎨 Frontend Development
-
-React.js | React Native | HTML | CSS | Tailwind CSS | Bootstrap
-
----
-
-### ⚙️ Backend Development
-
-Node.js | Express.js | REST APIs | Socket.io | WebRTC | JWT Authentication
-
----
-
-### 🗄️ Databases
-
-MongoDB | MySQL
-
----
-
-### ⚡ DevOps & Automation
-
-Docker | CI/CD Pipelines | GitHub Actions | Git | GitHub
-
----
-
-### ☁️ Cloud & Deployment
-
-Vercel | Render
-
----
-
-### 🛠️ Tools & Platforms
-
-## Postman | Clerk Auth | Cloudinary | Razorpay | Expo
 
 ## 📌 Featured Projects
 
 ---
 
-# 🔥 Whisper — Real-Time Cross-Platform Communication System 🚧 (In Progress)
+# 🔥 Whisper — Real-Time Cross-Platform Communication System
 
-### 📖 Purpose
+A scalable real-time chat and video calling platform with Socket.io messaging, WebRTC calling, and cross-platform support (Web & Mobile).
 
-Building a scalable real-time communication platform enabling secure messaging and peer-to-peer video calling across Web and Mobile platforms.
+**Tech**: React.js, React Native, Node.js, Express.js, Socket.io, WebRTC, MongoDB, Docker
 
----
+🔗 **[View Repository](https://github.com/sourodip19/Whisper)**
 
-### ✅ Completed Features
+# 💳 Banking Backend System
 
-• Real-time one-to-one messaging using Socket.io  
-• Secure authentication and session management  
-• Backend REST API architecture  
-• Database schema design for chats and users
+Production-grade banking backend with JWT authentication, ledger-based transactions, and email notifications.
 
----
+**Tech**: Node.js, Express.js, MongoDB, JWT, Nodemailer
 
-### 🚧 Features Under Development
-
-• Peer-to-peer video calling using WebRTC  
-• Media stream handling  
-• Mobile app optimization
+🔗 **[View Repository](https://github.com/sourodip19/Banking-Backend)**
 
 ---
 
-### 🎯 Planned Features
+# 🍕 FoodHub
 
-• Group chat functionality  
-• File and image sharing  
-• Online/offline presence  
-• Deployment and scaling
+Full-stack food ordering platform with Razorpay payments, Cloudinary image uploads, and admin dashboard.
 
----
+**Tech**: React.js, Node.js, Express.js, MongoDB, Razorpay, Cloudinary
 
-### ⚔️ Challenges
-
-• Implementing WebRTC signaling correctly  
-• Managing real-time socket connections  
-• Handling reconnections and connection drops
+🔗 **[View Repository](https://github.com/sourodip19/FoodHub)** | 🌍 **[Live Demo](https://resto-management-frontend.vercel.app/)**
 
 ---
 
-### 🧠 Learnings
+## 🌐 Client & Independent Projects
 
-• Real-time system architecture  
-• WebRTC internals and signaling  
-• Production-level backend design  
-• Cross-platform application structure
+### ☕ Coffee Shop Website
 
----
+Modern, fully responsive coffee shop website built with React & Tailwind CSS.
 
-### 🛠️ Tech Stack
+🌍 **[Live Demo](https://sip-spot-app.lovable.app/)** | **Tech**: React.js, Tailwind CSS
 
-Frontend: React.js, React Native, TypeScript
+### 👨‍💻 Personal Portfolio Website
 
-Backend: Node.js, Express.js, Socket.io
+Professional portfolio with smooth animations and project showcase.
 
-Database: MongoDB
-
-DevOps: Docker
-
----
-
-### ☁️ Deployment Status
-
-Backend: In Progress  
-Frontend: In Progress
-
----
-
-### 🔗 Links
-
-GitHub: https://github.com/sourodip19/Whisper
-
-Live URL: Coming Soon
-
-# 💳 Banking Backend System — Ledger-Based Transaction Engine
-
-### 📖 Purpose
-
-To simulate a production-grade banking backend handling secure financial transactions.
-
-### 🚀 Key Features
-
-• Secure user authentication with JWT  
-• Credit and debit transaction system  
-• Ledger-based balance tracking  
-• Email notifications
-
-### ⚔️ Challenges
-
-• Ensuring transaction consistency  
-• Preventing duplicate transactions  
-• Designing scalable data models
-
-### 🧠 Learnings
-
-• Backend architecture design  
-• Financial system fundamentals  
-• MongoDB aggregation pipelines
-
-### 🛠️ Tech Stack
-
-Node.js, Express.js, MongoDB, JWT, Nodemailer
-
-### 🔗 Links
-
-Live URL: N/A  
-GitHub: https://github.com/sourodip19
-
----
-
-# 🍕 FoodHub — Full Stack Food Ordering Platform
-
-### 📖 Purpose
-
-To develop a complete food ordering and restaurant management system.
-
-### 🚀 Features
-
-• User authentication and authorization  
-• Online payment integration  
-• Admin dashboard  
-• Cloud image upload
-
-### ⚔️ Challenges
-
-• Payment gateway integration  
-• Managing large image uploads  
-• State management
-
-### 🧠 Learnings
-
-• Full-stack architecture  
-• Payment integration  
-• Cloud storage handling
-
-### 🛠️ Tech Stack
-
-React.js, Node.js, Express.js, MongoDB, Razorpay, Cloudinary
-
-### 🔗 Links
-
-Live URL CustomerUI: https://resto-management-frontend.vercel.app/  
-GitHub: https://github.com/sourodip19
-
----
-
-## 🌐 Peer Client & Independent Projects
-
-Actively exploring **AI-powered development tools** like Cursor, Bolt, Lovable, and Antigravity.
-
-🛠️ Using AI-assisted workflows along with my frontend expertise to design, customize, and deploy real-world websites based on client requirements.
-
----
-
-### ☕ Coffee Shop Website (Frontend) (Client Project)
-
-🌍 Live: https://sip-spot-app.lovable.app/
-⚙️ Deployment: Lovable
-
-🧠 Highlights:
-
-• Fully responsive modern UI  
-• Interactive product/menu sections  
-• Optimized for performance and accessibility  
-• Designed and deployed for a real client use case
-
-🛠️ Tech Stack: React.js | Tailwind CSS | Vercel
-
----
-
-### 👨‍💻 Personal Portfolio Website (Client Project)
-
-🌍 Live: https://friend-project-2-portfolio-cmr5dgr58.vercel.app  
-⚙️ Deployment: Vercel
-
-🧠 Highlights:
-
-• Professional portfolio layout  
-• Smooth animations and responsive design  
-• Project showcase and contact integration
-
-🛠️ Tech Stack: React.js | Tailwind CSS | Vercel
-
----
-
-🔒 _Client identity anonymized for privacy_
+🌍 **[Live Demo](https://friend-project-2-portfolio-cmr5dgr58.vercel.app/)** | **Tech**: React.js, Tailwind CSS
 
 ---
 
