@@ -91,28 +91,22 @@ Full-stack food ordering and restaurant management system with Razorpay payments
 
 ---
 
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/sourodip19" />
+
+</p>
+
+---
+
 ## 🌐 Other Projects
-
-## 🤖 Built with AI-Assisted Development
-
-This project was created using **Lovable AI** as part of my effort to stay current with modern AI-assisted software development workflows.
-
-As a developer, I actively explore tools like Lovable AI, Cursor, Bolt, and GitHub Copilot to improve productivity, accelerate prototyping, and enhance development efficiency.
-
-This project demonstrates my ability to:
-
-- Effectively use AI-assisted development tools in real-world scenarios
-- Understand, modify, and extend AI-generated code
-- Integrate modern frontend technologies like React and Tailwind CSS
-- Deploy and manage production-ready applications
-
-AI was used as a development assistant, while I was responsible for understanding the architecture, customizing features, making improvements, and deploying the final application.
-
-I believe AI-assisted development is becoming a core skill for modern engineers, and I actively incorporate these tools into my workflow to build applications faster and more efficiently.
 
 ### ☕ Coffee Shop Website
 
 Modern and lively coffee-shop ui. Easy to browse menu and order.
+Made using AI Tools.
 
 🔗 **[View Repository](https://github.com/sourodip19/Coffee-Shop)**
 🌍 **[Live Demo](https://sip-spot-app.lovable.app/)** | 
@@ -121,6 +115,7 @@ Modern and lively coffee-shop ui. Easy to browse menu and order.
 ### 👨‍💻 Personal Portfolio Website
 
 Professional portfolio with smooth animations and project showcase.
+Made using AI Tools.
 
 🔗 **[View Repository](https://github.com/sourodip19/Portfolio)**
 🌍 **[Live Demo](https://friend-project-2-portfolio-cmr5dgr58.vercel.app/)** | 
