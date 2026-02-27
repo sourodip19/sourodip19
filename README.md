@@ -106,20 +106,35 @@ Full-stack food ordering and restaurant management system with Razorpay payments
 ### ☕ Coffee Shop Website
 
 Modern and lively coffee-shop ui. Easy to browse menu and order.
-Made using AI Tools.
+
 
 🔗 **[View Repository](https://github.com/sourodip19/Coffee-Shop)**
 🌍 **[Live Demo](https://sip-spot-app.lovable.app/)** | 
-**Tech**: React.js, Tailwind CSS
+**Tech**: React.js, Tailwind CSS, AI-assisted development
 
-### 👨‍💻 Personal Portfolio Website
+### 👨‍💻 Portfolio Website
 
 Professional portfolio with smooth animations and project showcase.
-Made using AI Tools.
+
+Deploy - Vercel
 
 🔗 **[View Repository](https://github.com/sourodip19/Portfolio)**
 🌍 **[Live Demo](https://friend-project-2-portfolio-cmr5dgr58.vercel.app/)** | 
-**Tech**: React.js, Tailwind CSS
+**Tech**: React.js, Tailwind CSS, AI-assisted development
 
+### 🐈 Api App Website
+
+React app with 4 different apis integrated with beautiful user friendly ui.
+
+APIs Used:
+• Cat API – https://api.thecatapi.com/v1/images/search
+• REST Countries API – https://restcountries.com/v3.1/name/{name}
+• OpenWeather API – https://openweathermap.org/api
+• OMDB API – https://www.omdbapi.com/
+
+Deploy - Render
+🔗 **[View Repository]: (https://github.com/sourodip19/React-Api-App)**
+🌍 **[Live Demo]: (https://react-api-app-exdp.onrender.com)**
+Tech Stack: React.js, Tailwind CSS, REST APIs, AI-assisted development
 ---
 
