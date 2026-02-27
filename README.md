@@ -101,7 +101,7 @@ Full-stack food ordering and restaurant management system with Razorpay payments
 
 ---
 
-## 🌐 Other Projects
+## 🌐 Other Projects for peers
 
 ### ☕ Coffee Shop Website
 
