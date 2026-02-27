@@ -122,19 +122,14 @@ Deploy - Vercel
 🌍 **[Live Demo](https://friend-project-2-portfolio-cmr5dgr58.vercel.app/)** | 
 **Tech**: React.js, Tailwind CSS, AI-assisted development
 
-### 🐈 Api App Website
+### 🐈 API App Website
 
-React app with 4 different apis integrated with beautiful user friendly ui.
+React app integrating 4 APIs (Cat, Countries, Weather, Movies) with responsive UI.
 
-APIs Used:
-• Cat API – https://api.thecatapi.com/v1/images/search
-• REST Countries API – https://restcountries.com/v3.1/name/{name}
-• OpenWeather API – https://openweathermap.org/api
-• OMDB API – https://www.omdbapi.com/
+Deploy: Render
 
-Deploy - Render
-🔗 [View Repository]: (https://github.com/sourodip19/React-Api-App)
-🌍 [Live Demo]: (https://react-api-app-exdp.onrender.com)
-Tech Stack: React.js, Tailwind CSS, REST APIs, AI-assisted development
----
+🔗 [View Repository](https://github.com/sourodip19/React-Api-App) 
+🌍 [Live Demo](https://react-api-app-exdp.onrender.com) |
+
+**Tech:** React, Tailwind CSS, Ai assisted development • 
 
