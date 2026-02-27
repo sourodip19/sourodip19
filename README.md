@@ -133,8 +133,8 @@ APIs Used:
 • OMDB API – https://www.omdbapi.com/
 
 Deploy - Render
-🔗 **[View Repository]: (https://github.com/sourodip19/React-Api-App)**
-🌍 **[Live Demo]: (https://react-api-app-exdp.onrender.com)**
+🔗 [View Repository]: (https://github.com/sourodip19/React-Api-App)
+🌍 [Live Demo]: (https://react-api-app-exdp.onrender.com)
 Tech Stack: React.js, Tailwind CSS, REST APIs, AI-assisted development
 ---
 
