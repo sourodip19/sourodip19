@@ -90,7 +90,7 @@ Full-stack food ordering and restaurant management system with Razorpay payments
 🔗 **[View Repository](https://github.com/sourodip19/Resto-Management)** | 🌍 **[Live Demo](https://resto-management-frontend.vercel.app/)**
 
 ---
-
+<!--
 ## 📊 Contribution Graph
 
 <p align="center">
@@ -132,4 +132,4 @@ Deploy: Render
 🌍 [Live Demo](https://react-api-app-exdp.onrender.com) |
 
 **Tech:** React, Tailwind CSS, Ai assisted development • 
-
+-->
